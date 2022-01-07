@@ -226,3 +226,16 @@ add $t1, $t0, $t0
 addi $t2, $t0, 5
 
 addi $t4, $t1, 5
+
+20)
+
+addi $t1, $t0, 1
+
+addi $t4, $t0, 2
+
+addi $t3, $t0, 2
+
+addi $t3, t0, 4
+
+addi $t5, $t0, 5
+
