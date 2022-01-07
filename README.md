@@ -21,9 +21,11 @@ a) Existem conflitos nas sequências de instruções abaixo? Responda apenas SIM
 
 b) Quais tipos estão presentes? Responda estruturais, dados, e/ou controle para cada sequência.
 
-c) Desenhe o diagrama de pipeline usando a representação 4 para identificar e indicar onde estão os conflitos para cada uma das sequências.
+c) É possível reordenar o código? Se sim, faça-o.
 
-d) Desenhe o diagrama de pipeline usando a representação 1 com a solução para os conflitos para cada uma das sequências.
+d) Desenhe o diagrama de pipeline usando a representação 4 para identificar e indicar onde estão os conflitos para cada uma das sequências.
+
+e) Desenhe o diagrama de pipeline usando a representação 1 com a solução para os conflitos para cada uma das sequências.
 
 
 1) 
@@ -270,3 +272,14 @@ slt $15, $6, 7
 
 lw $16, 50($7)
 
+23)
+
+lw $t0, 0($s1)
+
+addu $t0, $t0, $s2
+
+sw $t0, 0($s1)
+
+addi $s1, $s1, -4
+
+bne $s1, $zero, LOOP
