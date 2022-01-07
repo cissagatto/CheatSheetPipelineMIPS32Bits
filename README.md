@@ -3,8 +3,7 @@
 Cheat Sheet Pipeline MIPS 32 Bits
 
 
-<img src="https://github.com/cissagatto/CheatSheetPipelineMIPS32Bits/blob/main/pipeline-resumo-1.pdf" width="300">
-
+https://github.com/cissagatto/CheatSheetPipelineMIPS32Bits/blob/main/pipeline-resumo-1.pdf
 
 https://github.com/cissagatto/CheatSheetPipelineMIPS32Bits/blob/main/pipeline-resumo-3.pdf
 
