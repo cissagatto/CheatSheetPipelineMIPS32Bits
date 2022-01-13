@@ -13,6 +13,8 @@ https://github.com/cissagatto/CheatSheetPipelineMIPS32Bits/blob/main/pipeline-re
 
 https://github.com/cissagatto/CheatSheetPipelineMIPS32Bits/blob/main/pipeline-resumo-7.pdf
 
+https://github.com/cissagatto/CheatSheetPipelineMIPS32Bits/blob/main/pipeline-desdobramento-escalonamento.pdf
+
 ## PRATIQUE
 
 Questão sobre Hazards no pipeline de 32 bits do MIPS:
